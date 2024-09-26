@@ -8,7 +8,7 @@ Location Tracker - Android app is an Android application written in Kotlin with 
 
 The purpose of this Android app is to provide background location tracking using GPS and Wi-Fi.
 
-This Android app is intended to be used along with Location Tracker - Web Companion for full access of your travel history, timelines and location sharing features.
+This Android app is intended to be used along with [Location Tracker - Web Companion](https://github.com/Tyler-CY/Location-Tracker-Web) for full access of your travel history, timelines and location sharing features.
 
 ## Features
 - Location tracking
